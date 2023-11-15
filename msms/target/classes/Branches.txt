@@ -1,0 +1,7 @@
+Melbourne&367 Flinders St, Melbourne VIC&3000&(03) 9621 1022&Thursday 06:00 22:00,Friday 06:00 22:00,Saturday 08:00 22:00,Sunday 08:00 22:00,Monday 06:00 22:00,Tuesday 06:00 22:00,Wednesday 06:00 22:00
+Southbank&85D Queens Bridge St, Southbank VIC&3006&(03) 0401 7949&Thursday 06:00 22:00,Friday 06:00 22:00,Saturday 07:00 21:00,Sunday 07:00 21:00,Monday 06:00 22:00,Tuesday 06:00 22:00,Wednesday 06:00 22:00
+Footscray&18/185 Rosslyn St, Footscray VIC&3011&(03) 0900 1352&Thursday 06:00 22:00,Friday 06:00 22:00,Saturday 06:00 21:00,Sunday 06:00 21:00,Monday 06:00 22:00,Tuesday 06:00 22:00,Wednesday 06:00 22:00
+Carlton&122 George St, Carlton VIC&3054&(03) 9658 9600&Thursday 06:00 22:00,Friday 06:00 22:00,Saturday 06:00 23:00,Sunday 06:00 23:00,Monday 06:00 22:00,Tuesday 06:00 22:00,Wednesday 06:00 22:00
+South Yarra&under cinema, The Como, Shop 5/299 Toorak Rd, South Yarra VIC&3141&(03) 2287 1509&Thursday 06:00 22:00,Friday 06:00 20:00,Saturday 07:00 20:00,Sunday 07:00 20:00,Monday 06:00 22:00,Tuesday 06:00 22:00,Wednesday 06:00 22:00
+Caulfield&900 Dandenong Rd, Caulfield East VIC&3145&(03) 9903 2358&Thursday 06:00 22:00,Friday 06:00 22:00,Saturday 08:00 21:00,Sunday 08:00 21:00,Monday 06:00 22:00,Tuesday 06:00 22:00,Wednesday 06:00 22:00
+Clayton&Monash University Clayton Campus, 42 Scenic Blvd, Clayton VIC&3168&(03) 9905 4102&Thursday 06:00 22:00,Friday 06:00 22:00,Saturday 06:00 22:00,Sunday 06:00 22:00,Monday 06:00 22:00,Tuesday 06:00 22:00,Wednesday 06:00 22:00
